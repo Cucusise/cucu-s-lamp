@@ -14,6 +14,10 @@ To carry out the project, I watched a series of tutorials to learn how to use th
 
 ![Image 3](3.png)
 
+## Result
+Here it is the final result!
+![Image 4](4.jpeg)
+
 ## BOM
 
 | NAME      | AMOUNT | LINK |
